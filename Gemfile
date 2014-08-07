@@ -41,3 +41,5 @@ gem 'spring',        group: :development
 gem 'carrierwave'
 
 gem 'mini_magick', '~> 3.7.0'
+
+gem 'devise', '~> 3.2.4'
